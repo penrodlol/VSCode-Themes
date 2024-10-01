@@ -1,3 +1,3 @@
-# VSCode Themes
+# Themes
 
-A collection of VSCode themes
+A collection of themes
