@@ -1,0 +1,23 @@
+{
+  "name": "void-mint",
+  "displayName": "Void Mint",
+  "description": "A monochrome theme for VSCode",
+  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/void-min.json"
+      }
+    ]
+  }
+}
