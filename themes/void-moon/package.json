@@ -1,0 +1,23 @@
+{
+  "name": "void-moon",
+  "displayName": "Void Moon",
+  "description": "A monochrome theme for VSCode",
+  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/void.moon.json"
+      }
+    ]
+  }
+}
